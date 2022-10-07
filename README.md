@@ -18,18 +18,17 @@
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](luca.#8522)  
 
 **📚 History worked projects:**
-- ⚔ Narwell Server - A Minecraft Server based on Skyblock (NarWell.mc-tbh.es - Configurator)
-- ⚔ Narwell Network - A Minecraft Network based on PvP and PvE (mc.narwell.net or mc.narwellnt.net - Manager)
+- ⚔ EmeraldCraft - A Minecraft Server based on PvP and Minigames (mc.emeraldcraft.com.ar - Moderator)
+- ⚔ Narwell Network - A Minecraft Network based on PvP and PvE (mc.narwell.net or mc.narwellnt.net - Mod)
 - ⚔ HyCraft Network - A Minecraft Network based on PvP and PvE (mc.hycraft.us - Admin)
 - ⚔ BoxCraft Server- A Minecraft Server based on Skywars. (boxcraft.me - Owner)
 - ⚔ BoxCraft Network - A Minecraft Network based on Minigames (play.boxcraft.me - Owner)
 - ⚔ EnCubos Network - A Minecraft Network based on Minigames (play.encubos.net - Developer)
 - ⚔ Shynz Network - A Minecraft Network based on UHC and Minigames (play.shynz.net) - CEO)
-- ⚔ HolyHCF Network - A Minecraft Network based on HCF (holypvp.net - Manager)
+- ⚔ HolyHCF Network - A Minecraft Network based on HCF (holypvp.net - Mod)
 - ⚔ PolverUHC Server - A Minecraft Server basaed on UHC (play.ploveruhc.com - Manager)
 - ⚔ SkullUHC Server - A Minecraft Server based on UHC (na.skulluhc.net or sa.skulluhc.net - Admin/Manager)
 - ⚔ Battle Network - A Minecraft Network based on HCF and UHC. (battle.rip - UHC Admin, UHC Manager and Media Manager)
-- ⚔ xSupportMC Network - A Minecraft Network based on Minigames (play.xsupportmc.com - Developer)
-- ⚔ ProLatin Network- A Minecraft Network based on RPG, Roleplay and Minigames (proyectolatino.online - Developer)
+- ⚔ xSupportMC Network - A Minecraft Network based on Minigames (play.xsupportmc.com - Configurator)
+- ⚔ ProLatin Network- A Minecraft Network based on RPG, Roleplay and Minigames (proyectolatino.online - Owner)
 
-*(I actually work in Prolatin and Battle Network.)*
