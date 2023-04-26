@@ -6,7 +6,7 @@
 - 💬 Feel free to contact me on any of my social platforms!
 
 
-* https://twitter.com/luucay_
+* twitter.com/luucay_
 * https://t.me/@luucay_
 * Discord: luca.#8522  
 
